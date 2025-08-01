@@ -31,23 +31,23 @@
 # 🕺🏻 Demo
 ### 메인페이지
 
-<img align="center" width="1000" alt="Main" src="https://github.com/user-attachments/assets/beccbcb0-20c5-49bf-8a17-c47b55414e69">
+<img align="center" width="1000" alt="Main" src="https://github.com/user-attachments/assets/6ccf8c57-2045-4738-b192-b488c74354f7">
 <br><br>
 
 ### 가상피팅
-<img align="center" width="1000" alt="virtual fitting" src="https://github.com/user-attachments/assets/3040701a-caeb-4255-84b0-ffa6d2ef6b18">
+<img align="center" width="1000" alt="virtual fitting" src="https://github.com/user-attachments/assets/48a1251c-614c-422a-9d22-2c1936189021">
 <br><br>
 
 ### 상품 상세페이지
-<img align="center" width="1000" alt="product" src="https://github.com/user-attachments/assets/97304fd5-4990-42fe-9cd8-aa5e425d3d9c">
+<img align="center" width="1000" alt="product" src="https://github.com/user-attachments/assets/8373a046-cd73-4948-9d39-dd86aef82d85">
 <br><br>
 
 ### 가상피팅 영상
-<img align="center" width="1000" alt="virtual fitting video" src="https://github.com/user-attachments/assets/b249ab27-f8b0-4c49-b9f4-a613a44ca443">
+<img align="center" width="1000" alt="virtual fitting video" src="https://github.com/user-attachments/assets/a132b6ea-1476-447b-a0fd-5dd4201d13ff">
 <br><br>
 
 ### 결제
-<img align="center" width="1000" alt="order" src="https://github.com/user-attachments/assets/1e371daf-2e5c-4515-b475-c3cb766384c7">
+<img align="center" width="1000" alt="order" src="https://github.com/user-attachments/assets/706d813e-d965-4737-824e-b761344eb3dc">
 <br><br>
 
 # 📗 API
