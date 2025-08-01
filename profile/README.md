@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/your_repo">
-    <img width="576" height="602" alt="image" src="https://github.com/user-attachments/assets/e53d8a6e-ea93-4613-b083-012713c0a9a6" />
+    <img width="576" height="602" alt="image" src="https://github.com/user-attachments/assets/4c2e325f-0620-499b-b05f-337f26a7e7c0" />
   </a>
 </p>
 
