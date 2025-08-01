@@ -31,7 +31,7 @@
 # 🕺🏻 Demo
 ### 메인페이지
 
-<img align="center" width="1000" alt="Main" src="https://github.com/user-attachments/assets/abc172c7-23b8-4e23-8cf6-f7fa9f3ac072">
+<img align="center" width="1000" alt="Main" src="https://github.com/user-attachments/assets/58a2b478-bb69-4d0a-8dc2-12ef49118f4d">
 <br><br>
 
 ### 가상피팅
