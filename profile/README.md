@@ -1,4 +1,4 @@
-### <p align = center>2025 Techeer Summer BootCamp Team C<p>
+### <p align = center>🏆 2025 Techeer Summer BootCamp 1등 🏆<p>
 
 <p align="center">
   <a href="https://github.com/your_repo">
