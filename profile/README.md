@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/your_repo">
-    <img width="576" height="602" alt="image" src="https://github.com/user-attachments/assets/4c2e325f-0620-499b-b05f-337f26a7e7c0" />
+    <img src="https://github.com/user-attachments/assets/4c2e325f-0620-499b-b05f-337f26a7e7c0"
+     width="900" style="height:auto;" />
   </a>
 </p>
 
