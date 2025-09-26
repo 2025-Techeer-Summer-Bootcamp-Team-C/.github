@@ -1,14 +1,6 @@
-### <p align = center>🏆 2025 Techeer Summer BootCamp 1등 🏆<p>
-
-<p align="center">
-  <a href="https://github.com/your_repo">
-    <img src="https://github.com/user-attachments/assets/4c2e325f-0620-499b-b05f-337f26a7e7c0"
-     width="900" style="height:auto;" />
-  </a>
-</p>
+### <p align = center> 2025 Engineering Contest Team GRIT <p>
 
 # 🔮 Table of Contents
-- [Medium](#-Medium)
 - [Demo](#-Demo)
 - [System Architechture](#-System-Architechture)
 - [Tech stack](#-Tech-stack)
@@ -22,48 +14,36 @@
 
 # 📣 Introduction
 ### URL
-<blockquote>https://morphmall.shop</blockquote>
-
-
-### Medium
->  [Morph-Medium](https://medium.com/@ymkim2353/siliconvalley-summer-bootcamp-team-c-morph-fbc5f4ec896e)
-<br>
+<blockquote>https://hangil.site</blockquote>
 
 # 🕺🏻 Demo
-### 메인페이지
+### 로그인
 
-<img align="center" width="1000" alt="Main" src="https://github.com/user-attachments/assets/6ccf8c57-2045-4738-b192-b488c74354f7">
 <br><br>
 
-### 가상피팅
-<img align="center" width="1000" alt="virtual fitting" src="https://github.com/user-attachments/assets/48a1251c-614c-422a-9d22-2c1936189021">
+### 대시보드
+
 <br><br>
 
-### 상품 상세페이지
-<img align="center" width="1000" alt="product" src="https://github.com/user-attachments/assets/8373a046-cd73-4948-9d39-dd86aef82d85">
+### 이수현황
 <br><br>
 
-### 가상피팅 영상
-<img align="center" width="1000" alt="virtual fitting video" src="https://github.com/user-attachments/assets/a132b6ea-1476-447b-a0fd-5dd4201d13ff">
+### 시간표
 <br><br>
 
-### 결제
-<img align="center" width="1000" alt="order" src="https://github.com/user-attachments/assets/706d813e-d965-4737-824e-b761344eb3dc">
+### 졸업요건
+<br><br>
+
+### 졸업 시뮬레이션
 <br><br>
 
 # 📗 API
-<img width="1330" height="600" alt="image" src="https://github.com/user-attachments/assets/13e92af0-cafa-48a5-925d-043dc77ac24b" />
-<img width="1330" height="350" alt="image" src="https://github.com/user-attachments/assets/5f08ac8a-4457-4bfa-bf7a-f99b628c7e36" />
-<img width="1330" height="590" alt="image" src="https://github.com/user-attachments/assets/1a6df235-82be-4dbb-a743-e64f9cca3eee" />
 <br><br>
 
 # 🛠 ️System Architecture
-<img width="1106" height="663" alt="image" src="https://github.com/user-attachments/assets/98f37aef-c6fc-46a1-bb7b-3bbd239c1587" />
-<img width="1054" height="701" alt="image" src="https://github.com/user-attachments/assets/dd735169-9074-41ce-aa2a-aafa10f7a1c8" />
 <br><br>
 
 # 🔑 ERD
-<img width="2514" height="1450" alt="image" src="https://github.com/user-attachments/assets/1f2830f0-195c-4d96-8606-03b231cdff4f" />
 <br><br>
 
 # 💻 Tech Stack
@@ -152,82 +132,14 @@
 </div>
 </br>
 
-# 📊 Monitoring
-<h3 align="left">Prometheus & Grafana</h3>
-<table>
-    <tr>
-        <th colspan="2">Django</th>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/fbdd0c78-cc61-496a-b908-8988289a3fcb" alt=Django></td>
-        <td><img src="https://github.com/user-attachments/assets/272865b9-d9c1-4cf4-8192-b7c135988e58"  alt="Django2"></td>
-    </tr>
-    <tr>
-    <tr>
-        <th colspan="2">cAdvisor</th>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/1d11ca9d-6a5e-46c2-b54f-10a38830ac60" alt="cAdvisor2"></td>
-        <td><img src="https://github.com/user-attachments/assets/b8fc2005-8cd8-44d0-bbf6-631df97c4341" alt=cAdvisor"</td>
-    </tr>
-    <tr>
-        <th colspan="2">Node Exporter</th>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/user-attachments/assets/a1c9d3c9-b7db-4b37-baa2-785d00e8abd9" ></td>
-        <td><img src="https://github.com/user-attachments/assets/cfa6702c-b214-4d24-bfcb-a2ced55a3f25"></td>
-    </tr>
-</table>
-<br><br>
-
-# 🔧Logging
-<h3 align="left">Loki</h3>
-<img src="https://github.com/user-attachments/assets/2f537a96-2507-42f9-9eb7-f97d98bd5d75" />
-<br><br>
-
 # 🚀 How to Start
 #### 1. Clone The Repository
 ```
-https://github.com/2025-Techeer-Summer-Bootcamp-Team-C/Backend.git
-https://github.com/2025-Techeer-Summer-Bootcamp-Team-C/Frontend.git
+
 ```
 #### 2. ENV Setting
 - Backend/.env
 ```
-MYSQL_ROOT_PASSWORD=
-MYSQL_DATABASE=
-MYSQL_USER=
-MYSQL_PASSWORD=
-
-DATABASE_HOST=
-DATABASE_HOST2=
-DATABASE_NAME=
-DATABASE_USER=
-DATABASE_PASSWORD=
-
-SECRET_KEY=
-
-BITSTUDIO_API_KEY=
-OPENAI_API_KEY=
-SERP_API_KEY=
-
-CELERY_BROKER_URL=
-
-AWS_ACCESS_KEY_ID=
-AWS_SECRET_ACCESS_KEY=
-AWS_STORAGE_BUCKET_NAME=
-AWS_S3_REGION_NAME=
-
-GEMINI_API_KEY=
-
-AWS_S3_CUSTOM_DOMAIN=
-
-TNB_EMAIL=
-TNB_PASSWORD=
-
-ENVIRONMENT=
-DEBUG=
-SWAGGER_BASE_URL=
 
 ```
 #### 3. Run Docker
@@ -246,9 +158,4 @@ yarn run dev
 <br>
 
 ## 👥 Member
-| Name | 김환희 | 정지원 | 장성우 | 조성훈 | 제승현 |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Profile | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/4eba1600-cf6e-4214-8c3e-7db929237fcf" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/3e7aca0c-f5d4-4097-a227-cbe85f93a9f7" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/1cdf31dc-566f-40e3-9db2-c1fea316f981" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/d3d18633-f9c1-4b6e-835f-6a5ec5b99f75" /> | <img width="100px" height="110px" src="https://github.com/user-attachments/assets/3a5389d1-dfb4-4918-ad59-4331b273ff90" /> |
-| Role | Team Leader, <br>Backend, DevOps | Backend, DevOps | Backend | Backend, Design | Frontend, Design |
-| GitHub | <a href="https://github.com/hwanh2"><img src="http://img.shields.io/badge/hwanh2-green?style=social&logo=github"/></a> | <a href="https://github.com/0709jiwon"><img src="http://img.shields.io/badge/0709jiwon-green?style=social&logo=github"/></a> | <a href="https://github.com/Jsw0227"><img src="http://img.shields.io/badge/Jsw0227-green?style=social&logo=github"/></a> | <a href="https://github.com/0901shc"><img src="http://img.shields.io/badge/0901shc-green?style=social&logo=github"/></a> | <a href="https://github.com/lazyjsh03"><img src="http://img.shields.io/badge/lazyjsh03-green?style=social&logo=github"/></a> |
-
+-
